@@ -17,7 +17,7 @@ Hello word of web app dev
 ---
 
 ### Description:
-This is a simple web app that serves as an introduction to web development using HTML, CSS, and JavaScript. It's designed to be a basic project for students to showcase their skills in front-end development.
+This is a simple command in github.
 
 ---
->>>>>>> 8e6d440 (แก้ไข readme)
+
